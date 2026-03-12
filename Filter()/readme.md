@@ -1,4 +1,4 @@
-#filter() - Keep Elements That Pass a Test
+### filter() - Keep Elements That Pass a Test
 
 ```bash
 const filteredArray = array.filter((currentValue, index, array) => {
